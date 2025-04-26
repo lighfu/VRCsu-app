@@ -14,3 +14,6 @@ chiffon ビルドは不安定なビルド(Pre Aplha)です。
 
 stable は安定リリースになります。
 Githubではstable を使用することを強くオススメします。
+
+## 注意
+アプリをアンインストールする前に このアプリについて から Open debug activity を押して　ログアウトしてください。
