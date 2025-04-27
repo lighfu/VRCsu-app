@@ -8,7 +8,7 @@
   <img src="images/2025_04_26_19.51.27.jpg" style="margin-right: 10px; height: 350px;">
   </div>
 
-VRChat 向けの小さなユーティリティツールです。
+VRChat 向けのAndroid用小さなユーティリティツールです。
 
 ## 現在の機能
 
