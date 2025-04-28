@@ -20,6 +20,10 @@ VRChat 向けのAndroid用小さなユーティリティツールです。
 - フレンド一覧、フレンド情報
 - ワールド一覧
 - インスタンス履歴
+
+## Todoはこちらから見れます。
+https://www.notion.so/1ca5047911ed8011b3d3c13c2d94e775?pvs=4
+
   
 ## `chiffon` ビルドと `stable` ビルド
 
