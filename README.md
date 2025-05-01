@@ -30,7 +30,7 @@ VRChat 向けのAndroid用小さなユーティリティツールです。
 
 
 # Todo List
-https://www.notion.so/1ca5047911ed8011b3d3c13c2d94e775?pvs=4
+### https://www.notion.so/1ca5047911ed8011b3d3c13c2d94e775?pvs=4
 
   
 # `chiffon` ビルドと `stable` ビルド
