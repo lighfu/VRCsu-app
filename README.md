@@ -1,10 +1,10 @@
-<p align="left" width="100%">
+<p align="center" width="100%">
   <img src="images/95_20250426102656.png" style="margin:16px; height:128px">
 
 
-<p style="font-size: x-large">VRCsu-app</p>
+<h1>VRCsu-app</h1>
 
-Android用の VRChatに関わる様々なユーティリティーを利用できるアプリケーション
+<div align="center">android用の VRChatに関わる様々なユーティリティーを利用できるアプリケーション</div>
 
 <br>
 <br>
