@@ -19,12 +19,12 @@
 
 
 
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="images/2025_04_26_20.10.42.jpg" style="margin-right: 10px; height: 350px;">
-  <img src="images/2025_04_26_20.10.53.jpg" style="margin-right: 10px; height: 350px;">
-  <img src="images/2025_04_26_14.45.54.jpg" style="margin-right: 10px; height: 350px;">
-  <img src="images/2025_04_26_19.51.19.jpg" style="margin-right: 10px; height: 350px;">
-  <img src="images/2025_04_26_19.51.27.jpg" style="margin-right: 10px; height: 350px;">
+<div align="center">
+  <img src="images/2025_04_26_20.10.42.jpg" height="260px">
+  <img src="images/2025_04_26_20.10.53.jpg" height="260px">
+  <img src="images/2025_04_26_14.45.54.jpg" height="260px">
+  <img src="images/2025_04_26_19.51.19.jpg" height="260px">
+  <img src="images/2025_04_26_19.51.27.jpg" height="260px">
 </div>
 
 
