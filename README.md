@@ -1,5 +1,5 @@
-<div style="text-align: center">
-  <img src="images/95_20250426102656.png" style="margin:16px; height:350px">
+<p style="text-align: center">
+  <img src="images/95_20250426102656.png" style="margin:16px; height:128px">
 
 
 <p style="font-size: x-large">VRCsu-app</p>
@@ -13,7 +13,7 @@ Android用の VRChatに関わる様々なユーティリティーを利用でき
   <br>
   [English](link/to/README_en.md) | [日本語](link/to/README_ja.md) | [Español](link/to/README_es.md) | [Français](link/to/README_fr.md) | [Deutsch](link/to/README_de.md) | [中文](link/to/README_zh.md) | [한국어](link/to/README_ko.md) | [العربية](link/to/README_ar.md)
   <br>
-</div>
+</p>
 
 
 
