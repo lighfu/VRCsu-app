@@ -1,8 +1,8 @@
-<center>
-  ![VRCsu](images/95_20250426102656.png)
+<div style="text-align: center">
+  <img src="images/95_20250426102656.png" style="margin:16px; height:350px">
 
 
-# VRCsu-app
+<p style="font-size: x-large">VRCsu-app</p>
 
 Android用の VRChatに関わる様々なユーティリティーを利用できるアプリケーション
 
@@ -13,7 +13,9 @@ Android用の VRChatに関わる様々なユーティリティーを利用でき
   <br>
   [English](link/to/README_en.md) | [日本語](link/to/README_ja.md) | [Español](link/to/README_es.md) | [Français](link/to/README_fr.md) | [Deutsch](link/to/README_de.md) | [中文](link/to/README_zh.md) | [한국어](link/to/README_ko.md) | [العربية](link/to/README_ar.md)
   <br>
-  </center>
+</div>
+
+
 
 ---
 
@@ -25,9 +27,8 @@ Android用の VRChatに関わる様々なユーティリティーを利用でき
   <img src="images/2025_04_26_14.45.54.jpg" style="margin-right: 10px; height: 350px;">
   <img src="images/2025_04_26_19.51.19.jpg" style="margin-right: 10px; height: 350px;">
   <img src="images/2025_04_26_19.51.27.jpg" style="margin-right: 10px; height: 350px;">
-  </div>
+</div>
 
-VRChat 向けのAndroid用小さなユーティリティツールです。
 
 # バージョン
 
