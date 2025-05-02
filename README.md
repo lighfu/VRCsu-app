@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p style="text-align: center; width: 100%;">
   <img src="images/95_20250426102656.png" style="margin:16px; height:128px">
 
 
