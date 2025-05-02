@@ -6,6 +6,8 @@
 
 <div align="center">android用の VRChatに関わる様々なユーティリティーを利用できるアプリケーション</div>
 
+> [!WARNING]
+> 現在のリリースはChiffonビルドのみ(先行評価版)を含み、動作が安定しないことがあります。
 ---
 
 
