@@ -4,7 +4,7 @@
 
 <h1 align="center">VRCsu-app</h1>
 
-<div align="center">android用の VRChatに関わる様々なユーティリティーを利用できるアプリケーション</div>
+<div align="center">VRChatに関わる様々なユーティリティーを利用できるAndroidアプリケーション</div>
 
 > [!WARNING]
 > 現在のリリースはChiffonビルドのみ(先行評価版)を含み、動作が安定しないことがあります。
