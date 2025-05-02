@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="images/95_20250426102656.png" style="margin:16px; height:128px">
+  <img src="images/95_20250426102656.png" width="128">
 </p>
 
 <h1 align="center">VRCsu-app</h1>
