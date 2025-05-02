@@ -1,5 +1,5 @@
 <center>
-  ![VRCsu](画像のURL)
+  ![VRCsu](images/95_20250426102656.png)
 
 
 # VRCsu-app
