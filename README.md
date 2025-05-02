@@ -22,11 +22,11 @@
 
 
 <div align="center">
-  <img src="images/2025_04_26_20.10.42.jpg" height="260px">
-  <img src="images/2025_04_26_20.10.53.jpg" height="260px">
-  <img src="images/2025_04_26_14.45.54.jpg" height="260px">
-  <img src="images/2025_04_26_19.51.19.jpg" height="260px">
-  <img src="images/2025_04_26_19.51.27.jpg" height="260px">
+  <img src="images/2025_04_26_20.10.42.jpg" height="256px">
+  <img src="images/2025_04_26_20.10.53.jpg" height="256px">
+  <img src="images/2025_04_26_14.45.54.jpg" height="256px">
+  <img src="images/2025_04_26_19.51.19.jpg" height="256px">
+  <img src="images/2025_04_26_19.51.27.jpg" height="256px">
 </div>
 
 
