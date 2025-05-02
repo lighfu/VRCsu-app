@@ -1,19 +1,19 @@
 <p align="center" width="100%">
   <img src="images/95_20250426102656.png" style="margin:16px; height:128px">
+</p>
 
-
-<h1>VRCsu-app</h1>
+<h1 align="center">VRCsu-app</h1>
 
 <div align="center">android用の VRChatに関わる様々なユーティリティーを利用できるアプリケーション</div>
 
 <br>
-<br>
 
+<div align="center">
   **多言語ReadMe対応予定:**
   <br>
   [English](link/to/README_en.md) | [日本語](link/to/README_ja.md) | [Español](link/to/README_es.md) | [Français](link/to/README_fr.md) | [Deutsch](link/to/README_de.md) | [中文](link/to/README_zh.md) | [한국어](link/to/README_ko.md) | [العربية](link/to/README_ar.md)
   <br>
-</p>
+</div>
 
 
 
