@@ -6,17 +6,6 @@
 
 <div align="center">android用の VRChatに関わる様々なユーティリティーを利用できるアプリケーション</div>
 
-<br>
-
-<div align="center">
-  **多言語ReadMe対応予定:**
-  <br>
-  [English](link/to/README_en.md) | [日本語](link/to/README_ja.md) | [Español](link/to/README_es.md) | [Français](link/to/README_fr.md) | [Deutsch](link/to/README_de.md) | [中文](link/to/README_zh.md) | [한국어](link/to/README_ko.md) | [العربية](link/to/README_ar.md)
-  <br>
-</div>
-
-
-
 ---
 
 
