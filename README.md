@@ -9,10 +9,9 @@
 
 <div align="center">VRChatに関わる様々なユーティリティーを利用できるAndroidアプリケーション</div>
 
-<div align="center" width="100%">
-  <img src="images/post.png" width="100%">
-</div>
+<br/>
 
+<div align="center">For every vrchatters</div>
 
 <br/>
 <br/>
