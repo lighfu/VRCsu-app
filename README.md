@@ -1,6 +1,6 @@
-<p align="center" width="100%">
+<div align="center" width="100%">
   <img src="images/95_20250426102656.png" width="40%">
-</p>
+</div>
 
 <h1 align="center">VRCsu-app</h1>
 
@@ -9,9 +9,9 @@
 
 <div align="center">VRChatに関わる様々なユーティリティーを利用できるAndroidアプリケーション</div>
 
-<p align="center" width="100%">
+<div align="center" width="100%">
   <img src="images/post.png" width="100%">
-</p>
+</div>
 
 
 <br/>
@@ -73,6 +73,15 @@
 <br/>
 
 このレポジトリのRelease から最新バージョンのAPKをダウンロードしてインストールしてください。ウイルス警告が出た場合、検疫してもしなくてもインストールできます。
+
+<br/>
+
+<div align="center" width="100%">
+  <a href="https://github.com/lighfu/VRCsu-app/releases/latest/">
+    <img src="images/badge_download.png" width="32%">
+  </a>
+</div>
+
 
 <br/>
 
