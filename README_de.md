@@ -15,6 +15,18 @@
 
 <br/>
 <br/>
+<div align="center">
+  <a href="README.md">日本語 (ja)</a> •
+  <a href="README_en.md">English (en)</a> •
+  <a href="README_ko.md">한국어 (ko)</a> •
+  <a href="README_zh.md">中文 (zh)</a> •
+  <a href="README_es.md">Español (es)</a> •
+  <a href="README_fr.md">Français (fr)</a> •
+  <a href="README_ru.md">Русский (ru)</a> •
+  <a href="README_pt.md">Português (pt)</a> •
+  <a href="README_it.md">Italiano (it)</a>
+</div>
+<br/>
 <br/>
 
 > [!WARNING]
@@ -50,21 +62,22 @@
 ## Versionen
 <br/>
 
-* `v0.1.x-chiffon`
+* `v0.1.x-chiffon`: Erste Vorab-Bewertungsversion
 
-    - Intern wurde eine Datenbank aufgebaut.
-    - Sie können Ihre eigenen Informationen einfach bearbeiten.
-    - Datenschutzrichtlinie und Nutzungsbedingungen wurden verschärft.
-    - Sie können experimentell Ihre Freundesliste einsehen.
+    - Intern wurde eine Datenbank aufgebaut
+    - Sie können Ihre eigenen Informationen einfach bearbeiten
+    - Datenschutzrichtlinie und Nutzungsbedingungen wurden verschärft
+    - Experimentell implementierte Freundesliste
 
-* `v0.2.x-chiffon`
+* `v0.2.x-chiffon`: Hinzufügung von STT und umfangreiche Lokalisierung sowie weitere Anpassungen
 
     - STT-Funktionalität hinzugefügt (eine der Hauptfunktionen)
-    - Es wurde eine gründliche Lokalisierung durchgeführt.
-    - Unterstützt 10 Sprachen.
+    - Es wurde eine gründliche Lokalisierung durchgeführt
+    - Unterstützt 10 Sprachen
     - Option zum Sparen von mobilen Daten hinzugefügt
     - Der Updater hat sich deutlich weiterentwickelt
-    - Unsichtbare Anstrengungen wurden unternommen.
+    - Kleine Anpassungen am Layout von "Mein Profil"
+    - Unsichtbare Anstrengungen wurden unternommen
 
 <br/>
 

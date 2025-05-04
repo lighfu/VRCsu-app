@@ -15,6 +15,18 @@
 
 <br/>
 <br/>
+<div align="center">
+  <a href="README.md">日本語 (ja)</a> •
+  <a href="README_en.md">English (en)</a> •
+  <a href="README_zh.md">中文 (zh)</a> •
+  <a href="README_es.md">Español (es)</a> •
+  <a href="README_fr.md">Français (fr)</a> •
+  <a href="README_ru.md">Русский (ru)</a> •
+  <a href="README_pt.md">Português (pt)</a> •
+  <a href="README_it.md">Italiano (it)</a> •
+  <a href="README_de.md">Deutsch (de)</a>
+</div>
+<br/>
 <br/>
 
 > [!WARNING]
@@ -50,21 +62,22 @@
 ## 버전
 <br/>
 
-* `v0.1.x-chiffon`
+* `v0.1.x-chiffon`: 첫 번째 사전 평가 릴리스
 
-    - 내부적으로 데이터베이스가 구축되었습니다.
-    - 자신의 정보를 간단하게 편집할 수 있습니다.
-    - 개인정보 보호정책과 이용약관이 엄격해졌습니다.
-    - 시험적으로 친구 목록을 볼 수 있습니다.
+    - 내부적으로 데이터베이스가 구축되었습니다
+    - 자신의 정보를 간단하게 편집할 수 있습니다
+    - 개인정보 보호정책과 이용약관이 엄격해졌습니다
+    - 시험적으로 친구 목록을 구현했습니다
 
-* `v0.2.x-chiffon`
+* `v0.2.x-chiffon`: STT 추가 및 대규모 현지화, 기타 조정
 
     - STT 기능 추가 (주요 기능 중 하나)
-    - 철저한 현지화 작업이 이루어졌습니다.
-    - 10개 국가의 언어를 지원합니다.
+    - 철저한 현지화 작업이 이루어졌습니다
+    - 10개 국가의 언어를 지원합니다
     - 모바일 데이터 절약 옵션 추가
     - 업데이터가 크게 발전했습니다
-    - 보이지 않는 노력을 했습니다.
+    - "내 프로필"의 레이아웃을 미세 조정했습니다
+    - 보이지 않는 노력을 했습니다
 
 <br/>
 

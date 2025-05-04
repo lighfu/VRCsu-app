@@ -7,13 +7,25 @@
 <br/>
 <br/>
 
-<div align="center">Un'applicazione Android che fornisce varie utilità relative a VRChat</div>
+<div align="center">Un'applicazione Android che fornisce varie utilità legate a VRChat</div>
 
 <br/>
 
 <div align="center">Per tutti gli utenti di VRChat</div>
 
 <br/>
+<br/>
+<div align="center">
+  <a href="README.md">日本語 (ja)</a> •
+  <a href="README_en.md">English (en)</a> •
+  <a href="README_ko.md">한국어 (ko)</a> •
+  <a href="README_zh.md">中文 (zh)</a> •
+  <a href="README_es.md">Español (es)</a> •
+  <a href="README_fr.md">Français (fr)</a> •
+  <a href="README_ru.md">Русский (ru)</a> •
+  <a href="README_pt.md">Português (pt)</a> •
+  <a href="README_de.md">Deutsch (de)</a>
+</div>
 <br/>
 <br/>
 
@@ -50,21 +62,22 @@
 ## Versioni
 <br/>
 
-* `v0.1.x-chiffon`
+* `v0.1.x-chiffon`: Primo rilascio di pre-valutazione
 
-    - È stato costruito internamente un database.
-    - Puoi modificare semplicemente le tue informazioni.
-    - La politica sulla privacy e i termini di utilizzo sono stati resi più rigorosi.
-    - Puoi visualizzare sperimentalmente la tua lista di amici.
+    - È stato costruito internamente un database
+    - Puoi modificare semplicemente le tue informazioni
+    - La politica sulla privacy e i termini di utilizzo sono stati resi più rigorosi
+    - Implementazione sperimentale della lista di amici
 
-* `v0.2.x-chiffon`
+* `v0.2.x-chiffon`: Aggiunta di STT e localizzazione su larga scala, e altri aggiustamenti
 
     - Aggiunta la funzionalità STT (una delle principali caratteristiche)
-    - È stata implementata una localizzazione approfondita.
-    - Supporta 10 lingue.
+    - È stata implementata una localizzazione approfondita
+    - Supporta 10 lingue
     - Aggiunta l'opzione di risparmio dati mobili
     - Il sistema di aggiornamento si è evoluto significativamente
-    - Sono stati fatti sforzi invisibili.
+    - Piccoli aggiustamenti al layout del "Mio profilo"
+    - Sono stati fatti sforzi invisibili
 
 <br/>
 

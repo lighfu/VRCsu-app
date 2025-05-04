@@ -62,21 +62,22 @@
 ## Versions
 <br/>
 
-* `v0.1.x-chiffon`
+* `v0.1.x-chiffon`: First pre-evaluation release
 
-    - Database has been built internally.
-    - You can simply edit your own information.
-    - Privacy policy and terms of use have been strictened.
-    - You can experimentally view your friend list.
+    - Database has been built internally
+    - You can simply edit your own information
+    - Privacy policy and terms of use have been strictened
+    - Experimentally implemented friend list
 
-* `v0.2.x-chiffon`
+* `v0.2.x-chiffon`: Added STT and large-scale localization, and other adjustments
 
     - Added STT functionality (one of the major features)
-    - Thorough localization has been implemented.
-    - Supports 10 languages.
+    - Thorough localization has been implemented
+    - Supports 10 languages
     - Added mobile data saving option
     - The updater has evolved significantly
-    - Made invisible efforts.
+    - Minor layout adjustments to "My Profile"
+    - Made invisible efforts
 
 <br/>
 

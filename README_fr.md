@@ -15,6 +15,18 @@
 
 <br/>
 <br/>
+<div align="center">
+  <a href="README.md">日本語 (ja)</a> •
+  <a href="README_en.md">English (en)</a> •
+  <a href="README_ko.md">한국어 (ko)</a> •
+  <a href="README_zh.md">中文 (zh)</a> •
+  <a href="README_es.md">Español (es)</a> •
+  <a href="README_ru.md">Русский (ru)</a> •
+  <a href="README_pt.md">Português (pt)</a> •
+  <a href="README_it.md">Italiano (it)</a> •
+  <a href="README_de.md">Deutsch (de)</a>
+</div>
+<br/>
 <br/>
 
 > [!WARNING]
@@ -50,21 +62,22 @@
 ## Versions
 <br/>
 
-* `v0.1.x-chiffon`
+* `v0.1.x-chiffon`: Première version de pré-évaluation
 
-    - Une base de données a été construite en interne.
-    - Vous pouvez modifier simplement vos propres informations.
-    - La politique de confidentialité et les conditions d'utilisation ont été renforcées.
-    - Vous pouvez consulter expérimentalement votre liste d'amis.
+    - Une base de données a été construite en interne
+    - Vous pouvez modifier simplement vos propres informations
+    - La politique de confidentialité et les conditions d'utilisation ont été renforcées
+    - Implémentation expérimentale de la liste d'amis
 
-* `v0.2.x-chiffon`
+* `v0.2.x-chiffon`: Ajout de STT et localisation à grande échelle, et autres ajustements
 
     - Ajout de la fonctionnalité STT (une des fonctionnalités principales)
-    - Une localisation approfondie a été mise en œuvre.
-    - Prend en charge 10 langues.
+    - Une localisation approfondie a été mise en œuvre
+    - Prend en charge 10 langues
     - Ajout d'une option d'économie de données mobiles
     - Le système de mise à jour a considérablement évolué
-    - Des efforts invisibles ont été réalisés.
+    - Ajustements mineurs de la mise en page de "Mon profil"
+    - Des efforts invisibles ont été réalisés
 
 <br/>
 

@@ -15,6 +15,18 @@
 
 <br/>
 <br/>
+<div align="center">
+  <a href="README.md">日本語 (ja)</a> •
+  <a href="README_en.md">English (en)</a> •
+  <a href="README_ko.md">한국어 (ko)</a> •
+  <a href="README_zh.md">中文 (zh)</a> •
+  <a href="README_es.md">Español (es)</a> •
+  <a href="README_fr.md">Français (fr)</a> •
+  <a href="README_ru.md">Русский (ru)</a> •
+  <a href="README_it.md">Italiano (it)</a> •
+  <a href="README_de.md">Deutsch (de)</a>
+</div>
+<br/>
 <br/>
 
 > [!WARNING]
@@ -50,21 +62,22 @@
 ## Versões
 <br/>
 
-* `v0.1.x-chiffon`
+* `v0.1.x-chiffon`: Primeiro lançamento de pré-avaliação
 
-    - Um banco de dados foi construído internamente.
-    - Você pode editar suas próprias informações de forma simples.
-    - A política de privacidade e os termos de uso foram reforçados.
-    - Você pode visualizar experimentalmente sua lista de amigos.
+    - Um banco de dados foi construído internamente
+    - Você pode editar suas próprias informações de forma simples
+    - A política de privacidade e os termos de uso foram reforçados
+    - Lista de amigos implementada experimentalmente
 
-* `v0.2.x-chiffon`
+* `v0.2.x-chiffon`: Adição de STT e localização em grande escala, e outros ajustes
 
     - Adicionada funcionalidade STT (uma das principais características)
-    - Foi realizada uma localização completa.
-    - Suporta 10 idiomas.
+    - Foi realizada uma localização completa
+    - Suporta 10 idiomas
     - Adicionada opção de economia de dados móveis
     - O atualizador evoluiu significativamente
-    - Foram feitos esforços invisíveis.
+    - Ajustes menores no layout do "Meu perfil"
+    - Foram feitos esforços invisíveis
 
 <br/>
 

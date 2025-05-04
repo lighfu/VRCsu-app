@@ -15,6 +15,18 @@
 
 <br/>
 <br/>
+<div align="center">
+  <a href="README.md">日本語 (ja)</a> •
+  <a href="README_en.md">English (en)</a> •
+  <a href="README_ko.md">한국어 (ko)</a> •
+  <a href="README_es.md">Español (es)</a> •
+  <a href="README_fr.md">Français (fr)</a> •
+  <a href="README_ru.md">Русский (ru)</a> •
+  <a href="README_pt.md">Português (pt)</a> •
+  <a href="README_it.md">Italiano (it)</a> •
+  <a href="README_de.md">Deutsch (de)</a>
+</div>
+<br/>
 <br/>
 
 > [!WARNING]
@@ -50,21 +62,22 @@
 ## 版本
 <br/>
 
-* `v0.1.x-chiffon`
+* `v0.1.x-chiffon`: 首次预评估发布
 
-    - 内部构建了数据库。
-    - 可以简单编辑自己的信息。
-    - 隐私政策和使用条款已更加严格。
-    - 可以试验性地查看好友列表。
+    - 内部构建了数据库
+    - 可以简单编辑自己的信息
+    - 隐私政策和使用条款已更加严格
+    - 试验性地实现了好友列表
 
-* `v0.2.x-chiffon`
+* `v0.2.x-chiffon`: 添加STT和大规模本地化，以及其他调整
 
     - 添加了STT功能（主要功能之一）
-    - 进行了彻底的本地化工作。
-    - 支持10种语言。
+    - 进行了彻底的本地化工作
+    - 支持10种语言
     - 添加了移动数据节省选项
     - 更新程序已显著改进
-    - 做了许多看不见的努力。
+    - 对"我的个人资料"的布局进行了微调
+    - 做了许多看不见的努力
 
 <br/>
 
