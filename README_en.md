@@ -33,7 +33,7 @@
 > The current release only includes Chiffon builds (pre-evaluation version), which may not operate stably.
 
 
-> [!TIP]
+> [!CAUTION]
 > Before uninstalling the app, please go to `About this app` and press `Open debug activity` then `Logout`. If you don't, your session will remain active for a while.
 >
 > If sessions continue to remain, you may reach the session limit and be unable to log into your account for some time.

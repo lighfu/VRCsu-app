@@ -33,7 +33,7 @@
 > La version actuelle ne contient que des builds Chiffon (version pré-évaluation), qui peuvent ne pas fonctionner de manière stable.
 
 
-> [!TIP]
+> [!CAUTION]
 > Avant de désinstaller l'application, veuillez aller dans `À propos de cette application` et appuyer sur `Ouvrir l'activité de débogage` puis sur `Déconnexion`. Si vous ne le faites pas, votre session restera active pendant un certain temps.
 >
 > Si les sessions continuent à rester actives, vous risquez d'atteindre la limite de sessions et de ne pas pouvoir vous connecter à votre compte pendant un certain temps.

@@ -33,7 +33,7 @@
 > O lançamento atual inclui apenas compilações Chiffon (versão de pré-avaliação), que podem não operar de forma estável.
 
 
-> [!TIP]
+> [!CAUTION]
 > Antes de desinstalar o aplicativo, vá em `Sobre este aplicativo` e pressione `Abrir atividade de depuração` e então `Sair`. Se não fizer isso, sua sessão permanecerá ativa por algum tempo.
 >
 > Se as sessões continuarem ativas, você pode atingir o limite de sessões e ficar impossibilitado de fazer login em sua conta por algum tempo.

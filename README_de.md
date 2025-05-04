@@ -33,7 +33,7 @@
 > Die aktuelle Version enthält nur Chiffon-Builds (Vorabversionen), die möglicherweise nicht stabil funktionieren.
 
 
-> [!TIP]
+> [!CAUTION]
 > Bevor Sie die App deinstallieren, gehen Sie bitte zu `Über diese App` und drücken Sie `Debug-Aktivität öffnen` und dann `Abmelden`. Wenn Sie dies nicht tun, bleibt Ihre Sitzung eine Weile aktiv.
 >
 > Wenn Sitzungen weiterhin aktiv bleiben, könnten Sie das Sitzungslimit erreichen und sich eine Zeit lang nicht mehr bei Ihrem Konto anmelden können.

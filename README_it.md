@@ -33,7 +33,7 @@
 > L'attuale rilascio include solo build Chiffon (versione di pre-valutazione), che potrebbero non funzionare in modo stabile.
 
 
-> [!TIP]
+> [!CAUTION]
 > Prima di disinstallare l'app, vai su `Informazioni su questa app` e premi `Apri attività di debug` e poi `Logout`. Se non lo fai, la tua sessione rimarrà attiva per un po' di tempo.
 >
 > Se le sessioni continuano a rimanere attive, potresti raggiungere il limite di sessioni e non essere in grado di accedere al tuo account per un certo periodo.
